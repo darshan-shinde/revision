@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.in/Elements-Portable-External-Drive-Black/dp/B00PYKLKCS/ref=sr_1_6?adgrpid=57438708885&ext_vrnc=hi&gclid=Cj0KCQjwhLKUBhDiARIsAMaTLnG4nRMQ3r6C8J_d4eWykwEWQDsRojqGQwvHklJgxdnzoEEEzzapOHsaApZdEALw_wcB&hvadid=398039126127&hvdev=c&hvlocphy=9302808&hvnetw=g&hvqmt=b&hvrand=6096348235790823073&hvtargid=kwd-295988072611&hydadcr=21858_1981119&keywords=1%2Btb%2Bportable%2Bhard%2Bdrive&qid=1653449588&sr=8-6&th=1"
+}
